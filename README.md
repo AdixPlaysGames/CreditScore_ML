@@ -1,4 +1,4 @@
-# TicTok Analysis
+# Credit Score Classification
 
 > By Zuzanna Piróg & Adrian Zaręba
 ### This project is about creating a machine learning model that selects the appropriate score for each row of data.
